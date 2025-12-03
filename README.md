@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://blog.mindorigin.top](https://ppiscoding.github.io/)" target="_blank">
+  <a href="https://ppiscoding.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-3E8ACC?style=flat&logo=ghost&logoColor=white" />
   </a>
   <a href="mailto:13042466014@163.com">
@@ -44,4 +44,4 @@
 
 ### 📫 Contact
 📮 邮箱：13042466014@163.com  
-📝 博客：[https://ppiscoding.github.io/[blog.mindorigin.top](https://blog.mindorigin.top)](https://ppiscoding.github.io/)
+📝 博客：[https://ppiscoding.github.io/](https://ppiscoding.github.io/)
