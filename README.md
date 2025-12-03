@@ -46,4 +46,4 @@
 
 ### 📫 Contact
 📮 邮箱：13042466014@163.com  
-📝 博客：[blog.mindorigin.top](https://blog.mindorigin.top)
+📝 博客：https://ppiscoding.github.io/[blog.mindorigin.top](https://blog.mindorigin.top)
