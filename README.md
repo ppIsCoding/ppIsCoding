@@ -32,16 +32,14 @@
   <img src="https://skillicons.dev/icons?i=vue,react" />
   <br/>
   <!-- 运维 / 工具 -->
-  <img src="https://skillicons.dev/icons?i=linux,github,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,github" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-| **Stats** | **Languages** |
-|-----------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pplsCoding&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pplsCoding&layout=compact&theme=radical) |
-
+![GitHub Stats](https://img.shields.io/github/stats/pplsCoding/pplsCoding?style=flat-square)
+![Top Langs](https://img.shields.io/github/languages/top/pplsCoding/pplsCoding?style=flat-square)
 ---
 
 ### 📫 Contact
