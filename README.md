@@ -38,8 +38,8 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://img.shields.io/github/stats/pplsCoding/pplsCoding?style=flat-square)
-![Top Langs](https://img.shields.io/github/languages/top/pplsCoding/pplsCoding?style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppIsCoding&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppIsCoding&layout=compact&theme=radical)
 ---
 
 ### 📫 Contact
