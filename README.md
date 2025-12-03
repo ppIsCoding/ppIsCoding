@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.mindorigin.top" target="_blank">
+  <a href="[https://blog.mindorigin.top](https://ppiscoding.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-3E8ACC?style=flat&logo=ghost&logoColor=white" />
   </a>
   <a href="mailto:13042466014@163.com">
